@@ -1,2 +1,2 @@
-# -auxilium
-A app for disaster management
+# auxilium
+An app for disaster management
