@@ -18,7 +18,7 @@ The first thing after a disaster strikes is to notify the Disaster Management Au
 
 ## Rescuing stranded people
 
-If a person is stranded at a place during a disaster such as fire or earthquake where the person cannot escape without help. For this situation, our app will notify the authorities for that person. As the authorities may not be able to reach there on time so the app will send help notification to police personal or nearby pedestrians or people driving by, basically it will send help request to people within a fixed radius. The person willing to help will have to accept the help request and he will be shown a list of steps to follow so that he would rescue her. Once the request is accepted the help message will be stopped. This way the person will have a higher survival probability until the authorities arrive. 
+If a person is stranded at a place during a disaster such as fire or earthquake where the person cannot escape without help. For this situation, our app will notify the authorities for that person. As the authorities may not be able to reach there on time so the app will send help notification to police personal or nearby pedestrians or people driving by, basically it will send help request to people within a fixed radius. The person willing to help will have to accept the help request and he will be shown a list of steps to follow so that he would rescue that person. Once the request is accepted the help message will be stopped. This way the person will have a higher survival probability until the authorities arrive. 
 
 ## Post Natural Disaster
 
