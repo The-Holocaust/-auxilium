@@ -28,5 +28,5 @@ We will link the security cameras in the area of the disaster (say national park
 
 ## Method of prediction of disaster
 
-Many disaster predictions will be made by our app such as for earthquake can be taken from USGS Earthquake Catalog, Cyclone and Floods will come from the AerisWeather API. 
+Many disaster predictions will be made by our app such as for earthquake can be taken from USGS Earthquake Catalogue, Cyclone and Floods will come from the AerisWeather API. 
 
