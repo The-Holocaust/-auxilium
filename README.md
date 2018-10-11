@@ -7,7 +7,9 @@ Also, we take animals for granted during natural calamities and just leave them 
 ## Modelling and Simulation
 
 As new approach towards increasing the preparedness for a natural calamity we will be simulating a flashflood scenario in virtual reality to give an immersive feel of the flash flood. Well be building it using Unity Engine and Visual Studio and VR packages.
-The First Step of Natural Disaster- Precaution
+
+## The First Step of Natural Disaster- Precaution
+
 The very first layer protection from any calamity is a precaution. First, our app will notify about various natural disasters and keep the person updated with the details of the said disaster and this will happen persistently. And the data will be based on forecasts by the meteorological department. The second step would be creating awareness about the precautionary steps to be followed prior to the calamity.
 
 ## During a Disaster
