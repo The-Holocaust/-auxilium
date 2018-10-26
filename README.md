@@ -28,7 +28,4 @@ During a disaster, there is a scarcity of food so the govt. sets up relief camps
 
 We will link the security cameras in the area of the disaster (say national parks, roads etc.) which will locate a trapped animal using computer vision and notify the concerned authority immediately so that animals can also be rescued.
 
-## Method of prediction of disaster
-
-Many disaster predictions will be made by our app such as for earthquake can be taken from USGS Earthquake Catalogue, Cyclone and Floods will come from the AerisWeather API. 
 
